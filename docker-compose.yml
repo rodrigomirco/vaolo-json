@@ -1,0 +1,18 @@
+version: '3.2'
+
+services:
+   json-server-dev:
+      build: ./dev
+      ports:
+         - '3001:80'
+      volumes:
+         - '/home/osboxes/vaolo/dev/starships.json:/data/db.json'
+      image: clue/json-server
+
+   json-server-staging:
+      build: ./staging
+      ports:
+         - '3002:80'
+      volumes:
+         - '/home/osboxes/vaolo/staging/starships.json:/data/db.json'
+      image: clue/json-server
