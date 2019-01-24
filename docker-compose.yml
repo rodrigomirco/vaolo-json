@@ -6,7 +6,7 @@ services:
       ports:
          - '3001:80'
       volumes:
-         - '/home/g1640260/vaolo-json/dev/starships.json:/data/db.json'
+         - '/home/g1640260/vaolo-json/dev/vaolo-db-dev.json:/data/db.json'
       image: clue/json-server
 
    json-server-staging:
@@ -14,5 +14,5 @@ services:
       ports:
          - '3002:80'
       volumes:
-         - '/home/g1640260/vaolo-json/staging/starships.json:/data/db.json'
+         - '/home/g1640260/vaolo-json/staging/vaolo-db-staging.json:/data/db.json'
       image: clue/json-server
