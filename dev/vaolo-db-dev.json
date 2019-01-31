@@ -104,5 +104,12 @@
       "labelId": "6",
       "ressourceId": "9"
     }
+  ],
+  "users": [
+    {
+      "email": "test@vaolo.com",
+      "passwordSalt":  "bidon",
+      "hashedPassword":  "bidon"
+    }    
   ]
 }
