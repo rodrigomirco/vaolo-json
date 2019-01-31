@@ -1,11 +1,11 @@
 FROM node:latest
 
-RUN npm install -g json-server
+RUN npm install json-server --save-dev
 
 WORKDIR /data
 VOLUME /data
 
-EXPOSE 80
-ADD run.sh /run.sh
-ENTRYPOINT ["bash", "/run.sh"]
+EXPOSE 3000
+ADD server.js /server.js
+ENTRYPOINT ["node", "/server.js"]
 CMD []

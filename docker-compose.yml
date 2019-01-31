@@ -4,7 +4,7 @@ services:
    json-server-dev:
       build: ./dev
       ports:
-         - '3001:80'
+         - '3001:3000'
       volumes:
          - '/home/g1640260/vaolo-json/dev/vaolo-db-dev.json:/data/db.json'
       image: clue/json-server
@@ -12,7 +12,7 @@ services:
    json-server-staging:
       build: ./staging
       ports:
-         - '3002:80'
+         - '3002:3000'
       volumes:
          - '/home/g1640260/vaolo-json/staging/vaolo-db-staging.json:/data/db.json'
       image: clue/json-server
