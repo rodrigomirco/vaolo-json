@@ -1,189 +1,108 @@
-{  
-   "starships":[  
-      {  
-         "id":1,
-         "name":"Executor - DEV!",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_executor_01_169_8157df82.jpeg?region=57%2C0%2C1503%2C845&width=768"
-      },
-      {  
-         "id":2,
-         "name":"Sentinel-class landing craft",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/Imperial-Sentinel-Class-Shuttle_a2dc7d3b.jpeg?region=0%2C0%2C1596%2C898&width=768"
-      },
-      {  
-         "id":3,
-         "name":"Death Star",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/Death-Star-I-copy_36ad2500.jpeg?region=0%2C0%2C1600%2C900&width=768"
-      },
-      {  
-         "id":4,
-         "name":"Millennium Falcon",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/solo-falcon-main_0429f7f4.jpeg?region=8%2C0%2C1543%2C868&width=768"
-      },
-      {  
-         "id":5,
-         "name":"Y-wing",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/Y-Wing-Fighter_0e78c9ae.jpeg?region=0%2C0%2C1536%2C864&width=768"
-      },
-      {  
-         "id":6,
-         "name":"X-wing",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/X-Wing-Fighter_47c7c342.jpeg?region=0%2C1%2C1536%2C864&width=768"
-      },
-      {  
-         "id":7,
-         "name":"TIE Advanced x1",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/image_3aaf40b1.jpeg?region=0%2C0%2C1920%2C1080&width=768"
-      },
-      {  
-         "id":8,
-         "name":"Slave 1",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_slavei_01_169_8dc3102d.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":9,
-         "name":"Imperial shuttle",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/veh_ia_1752_040381b2.jpeg?region=0%2C70%2C1280%2C720&width=768"
-      },
-      {  
-         "id":10,
-         "name":"EF76 Nebulon-B escort frigate",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/nebulon-b-frigate_dce53bc2.jpeg?region=0%2C0%2C1181%2C664&width=768"
-      },
-      {  
-         "id":11,
-         "name":"Calamari Cruiser",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/e6d_ia_2581_47f64de7.jpeg?region=254%2C0%2C1426%2C802&width=768"
-      },
-      {  
-         "id":12,
-         "name":"A-wing",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/screen_shot_2015-05-26_at_5_16a39e17.png?region=0%2C71%2C812%2C457&width=768"
-      },
-      {  
-         "id":13,
-         "name":"B-wing",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_bwingfighter_01_169_460cc528.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":14,
-         "name":"Republic Cruiser",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_republiccruiser_01_169_fd769e33.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":15,
-         "name":"Naboo fighter",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_naboon1starfighter_01_169_26691adf.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":16,
-         "name":"Naboo Royal Starship",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_nabooroyalstarship_01_169_e61f677e.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":17,
-         "name":"Scimitar",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_separatistsupplyship_01_169_979ac94a.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":18,
-         "name":"J-type diplomatic barge",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/stealth_ship_13e7cbb8.jpeg?region=170%2C0%2C1415%2C796&width=768"
-      },
-      {  
-         "id":19,
-         "name":"AA-9 Coruscant freighter",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/aa-9-coruscant-freighter_a856053d.jpeg?region=92%2C0%2C1181%2C665&width=768"
-      },
-      {  
-         "id":20,
-         "name":"Jedi starfighter",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/delta-7-starfighter_fe9a59bc.jpeg?region=0%2C304%2C1560%2C873&width=768"
-      },
-      {  
-         "id":21,
-         "name":"H-type Nubian yacht",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/h-type-nubian-yacht_7d67bc00.jpeg?region=0%2C0%2C1181%2C663&width=768"
-      },
-      {  
-         "id":22,
-         "name":"Star Destroyer",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_superstardestroyer_01_169_d5757b90.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":23,
-         "name":"Trade Federation cruiser",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_tradefederationlandingship_01_169_00567a01.jpeg?region=106%2C163%2C1270%2C715&width=768"
-      },
-      {  
-         "id":24,
-         "name":"Theta-class T-2c shuttle",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_jedit6shuttle_01_169_2fd46362.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":25,
-         "name":"T-70 X-wing fighter",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/resistance-x-wing_9433981f.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":26,
-         "name":"Rebel transport",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/gr-75-medium-transport_cd04862d.jpeg?region=15%2C0%2C770%2C433&width=768"
-      },
-      {  
-         "id":27,
-         "name":"Droid control ship",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/last-jedi-databank-anodyne-main-image_aacd1684.jpeg?region=0%2C0%2C1280%2C720&width=768"
-      },
-      {  
-         "id":28,
-         "name":"Republic Assault ship",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_republictugboat_01_169_4d2e1af2.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":29,
-         "name":"Solar Sailer",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_geonosiansolarsailer_01_169_b3873578.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":30,
-         "name":"Republic attack cruiser",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_republicattackcruiser_01_169_812f153d.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":31,
-         "name":"Naboo star skiff",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/naboo-royal-cruiser_70fa0ac3.jpeg?region=191%2C0%2C1179%2C663&width=768"
-      },
-      {  
-         "id":32,
-         "name":"Jedi Interceptor",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/ETA-2-starfighter-main-image_bedd3aaa.jpeg?region=232%2C0%2C1451%2C816&width=768"
-      },
-      {  
-         "id":33,
-         "name":"arc-170",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_arc170starfighter_01_169_f932abcb.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      },
-      {  
-         "id":34,
-         "name":"Belbullab-22 starfighter",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/Z-95-starfighter_95f8ed4b.jpeg?region=0%2C0%2C1289%2C725&width=768"
-      },
-      {  
-         "id":35,
-         "name":"V-wing",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/v-wing_8d8d05aa.jpeg?region=181%2C176%2C780%2C438&width=768"
-      },
-      {  
-         "id":36,
-         "name":"CR90 corvette",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/hammerhead-corvette-rogue-update_453ce60b.jpeg?region=154%2C0%2C892%2C502&width=768"
-      },
-      {  
-         "id":37,
-         "name":"Banking clan frigate",
-         "image_url":"https://lumiere-a.akamaihd.net/v1/images/databank_republicfrigate_01_169_44e96d2c.jpeg?region=0%2C0%2C1560%2C878&width=768"
-      }
-   ]
+{
+  "accomodations": [
+    {
+      "id": "1",
+      "name": "Casa de las Flores",
+      "description": "Maison sur les montagnes Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
+      "type": "Cases traditionnelles",
+      "maxNbOfPeopleByRoom": "4",
+      "transport": "Bus, taxi, voiture",
+      "languages": [
+        "français",
+        "anglais",
+        "espagnol"
+      ],
+      "totalNbOfUnities": "7",
+      "closestCity": "Quito",
+      "equipments": [
+        "Salles d'eau partagées",
+        "Salle commune",
+        "Plage",
+        "Panneaux solaires"
+      ],
+      "disponibilities": "Disponible toute l’année. Saison des pluies : mai à octobre. Saison sèche : novembre à avril.",
+      "activities": [
+        "Rafting",
+        "tours en canoé",
+        "excursions dans la jungle",
+        "atelier de fabrication et dégustation de chocolat",
+        "plantes médicinales",
+        "atelier d’artisanat",
+        "promenades en plein-air",
+        "excursions nocturnes",
+        "visite des cascades",
+        "animation musicale",
+        "tubing",
+        "visite des cavernes",
+        "atelier de purification",
+        "massage"
+      ],
+      "structure": "Privée",
+      "directions": [
+        "De Quito à Tena, compter environ 4 heures de bus. De Tena a Misahualli, compter environ 40 minutes de bus. De Misahualli à Sinchi Warmi, compter environ 5 minutes de taxi. Possibilité de prendre un taxi depuis Tena jusqu’à Sinchi Warmi : environ 25 minutes.",
+        "Depuis le square à Puerto Misahualli, prendre la Via St. Victor direction Est. Traverser le pont à Puerto Misahualli. Prendre à droite au premier Y juste après le pont. Continuer sur cette route pendant 2 km. Sinchi Warmi Amazon Lodge sera à votre gauche juste après le restaurant El Jardin et la communauté Shiripuno."
+      ],
+      "geographicalCoordinates": "0.022881, -78.892277",
+      "emailAddress": "test@email.com",
+      "onTheFrontPage": true,
+      "keywords": [
+        "quito",
+        "casa",
+        "flores",
+        "plage",
+        "équateur"
+      ],
+      "countryId": "1",
+      "regionId": "3",
+      "labelId": "5",
+      "ressourceId": "43"
+    },
+    {
+      "id": "2",
+      "name": "Finca Tilquiza",
+      "description": "Maison dans la forêt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
+      "type": "Cases traditionnelles",
+      "maxNbOfPeopleByRoom": "7",
+      "transport": "Voiture, taxi, moto, bicyclette, à pied",
+      "languages": [
+        "anglais",
+        "espagnol"
+      ],
+      "totalNbOfUnities": "10",
+      "closestCity": "Quito",
+      "equipments": [
+        "Salles d'eau partagées",
+        "Accès internet (Wi-Fi)",
+        "Plage",
+        "Panneaux solaires",
+        "Électricité 24h",
+        "Moustiquaires"
+      ],
+      "disponibilities": "Disponible toute l’année",
+      "activities": [
+        "Randonnée pédestre en sentiers balisés pour la promenade en forêt et dans les montagnes",
+        "visite du circuit touristique Quebrada de Humahuaca",
+        "observation de faune et de flore",
+        "détente"
+      ],
+      "structure": "Propriété privée",
+      "directions": [
+        "Pour atteindre le site de Tilquiza, dans le département Dr. Manuel Belgrano, San Salvador de Jujuy, province de Jujuy, RA; Vous devez parcourir 17 km sur la route provinciale no 35. Il s’agit d’un sentier entre des collines, présente des virages qui traversent de petites rivières et ruisseaux; pour cette raison, il est recommandé de voyager de jour. Le personnel de Finca Tilquiza contactera le touriste pour l’accompagner dans son voyage. La route est en gravier et en bon état. Vous pouvez accéder à la ferme dans un camion toute l’année et dans des voitures plus petites de mars à décembre.",
+        "Une autre façon d’accéder à Finca Tilquiza est de traverser un pont suspendu et de là, à pied ou à cheval. La distance à parcourir est de 150 mètres.",
+        "Si vous préférez, vous pouvez arriver à l’hébergement en autobus qui part tous les jours à 7 heures du terminal San Salvador de Jujuy en direction de Ocloyas. Descendre à Tilquiza."
+      ],
+      "geographicalCoordinates": "0.222881, -79.892277",
+      "emailAddress": "finca@tilquiza.com.eq",
+      "onTheFrontPage": false,
+      "keywords": [
+        "quito",
+        "finca",
+        "tilquiza"
+      ],
+      "countryId": "1",
+      "regionId": "3",
+      "labelId": "6",
+      "ressourceId": "9"
+    }
+  ]
 }
