@@ -1,4 +1,4 @@
-{
+ï»¿{
   "accomodations": [
     {
       "id": "1",
@@ -8,26 +8,26 @@
       "maxNbOfPeopleByRoom": "4",
       "transport": "Bus, taxi, voiture",
       "languages": [
-        "français",
+        "franÃ§ais",
         "anglais",
         "espagnol"
       ],
       "totalNbOfUnities": "7",
       "closestCity": "Quito",
       "equipments": [
-        "Salles d'eau partagées",
+        "Salles d'eau partagÃ©es",
         "Salle commune",
         "Plage",
         "Panneaux solaires"
       ],
-      "disponibilities": "Disponible toute l’année. Saison des pluies : mai à octobre. Saison sèche : novembre à avril.",
+      "disponibilities": "Disponible toute lâ€™annÃ©e. Saison des pluies : mai Ã  octobre. Saison sÃ¨che : novembre Ã  avril.",
       "activities": [
         "Rafting",
-        "tours en canoé",
+        "tours en canoÃ©",
         "excursions dans la jungle",
-        "atelier de fabrication et dégustation de chocolat",
-        "plantes médicinales",
-        "atelier d’artisanat",
+        "atelier de fabrication et dÃ©gustation de chocolat",
+        "plantes mÃ©dicinales",
+        "atelier dâ€™artisanat",
         "promenades en plein-air",
         "excursions nocturnes",
         "visite des cascades",
@@ -37,10 +37,10 @@
         "atelier de purification",
         "massage"
       ],
-      "structure": "Privée",
+      "structure": "PrivÃ©e",
       "directions": [
-        "De Quito à Tena, compter environ 4 heures de bus. De Tena a Misahualli, compter environ 40 minutes de bus. De Misahualli à Sinchi Warmi, compter environ 5 minutes de taxi. Possibilité de prendre un taxi depuis Tena jusqu’à Sinchi Warmi : environ 25 minutes.",
-        "Depuis le square à Puerto Misahualli, prendre la Via St. Victor direction Est. Traverser le pont à Puerto Misahualli. Prendre à droite au premier Y juste après le pont. Continuer sur cette route pendant 2 km. Sinchi Warmi Amazon Lodge sera à votre gauche juste après le restaurant El Jardin et la communauté Shiripuno."
+        "De Quito Ã  Tena, compter environ 4 heures de bus. De Tena a Misahualli, compter environ 40 minutes de bus. De Misahualli Ã  Sinchi Warmi, compter environ 5 minutes de taxi. PossibilitÃ© de prendre un taxi depuis Tena jusquâ€™Ã  Sinchi Warmi : environ 25 minutes.",
+        "Depuis le square Ã  Puerto Misahualli, prendre la Via St. Victor direction Est. Traverser le pont Ã  Puerto Misahualli. Prendre Ã  droite au premier Y juste aprÃ¨s le pont. Continuer sur cette route pendant 2 km. Sinchi Warmi Amazon Lodge sera Ã  votre gauche juste aprÃ¨s le restaurant El Jardin et la communautÃ© Shiripuno."
       ],
       "geographicalCoordinates": "0.022881, -78.892277",
       "emailAddress": "test@email.com",
@@ -50,7 +50,7 @@
         "casa",
         "flores",
         "plage",
-        "équateur"
+        "Ã©quateur"
       ],
       "countryId": "1",
       "regionId": "3",
@@ -60,10 +60,10 @@
     {
       "id": "2",
       "name": "Finca Tilquiza",
-      "description": "Maison dans la forêt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
+      "description": "Maison dans la forÃªt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "type": "Cases traditionnelles",
       "maxNbOfPeopleByRoom": "7",
-      "transport": "Voiture, taxi, moto, bicyclette, à pied",
+      "transport": "Voiture, taxi, moto, bicyclette, Ã  pied",
       "languages": [
         "anglais",
         "espagnol"
@@ -71,25 +71,25 @@
       "totalNbOfUnities": "10",
       "closestCity": "Quito",
       "equipments": [
-        "Salles d'eau partagées",
-        "Accès internet (Wi-Fi)",
+        "Salles d'eau partagÃ©es",
+        "AccÃ¨s internet (Wi-Fi)",
         "Plage",
         "Panneaux solaires",
-        "Électricité 24h",
+        "Ã‰lectricitÃ© 24h",
         "Moustiquaires"
       ],
-      "disponibilities": "Disponible toute l’année",
+      "disponibilities": "Disponible toute lâ€™annÃ©e",
       "activities": [
-        "Randonnée pédestre en sentiers balisés pour la promenade en forêt et dans les montagnes",
+        "RandonnÃ©e pÃ©destre en sentiers balisÃ©s pour la promenade en forÃªt et dans les montagnes",
         "visite du circuit touristique Quebrada de Humahuaca",
         "observation de faune et de flore",
-        "détente"
+        "dÃ©tente"
       ],
-      "structure": "Propriété privée",
+      "structure": "PropriÃ©tÃ© privÃ©e",
       "directions": [
-        "Pour atteindre le site de Tilquiza, dans le département Dr. Manuel Belgrano, San Salvador de Jujuy, province de Jujuy, RA; Vous devez parcourir 17 km sur la route provinciale no 35. Il s’agit d’un sentier entre des collines, présente des virages qui traversent de petites rivières et ruisseaux; pour cette raison, il est recommandé de voyager de jour. Le personnel de Finca Tilquiza contactera le touriste pour l’accompagner dans son voyage. La route est en gravier et en bon état. Vous pouvez accéder à la ferme dans un camion toute l’année et dans des voitures plus petites de mars à décembre.",
-        "Une autre façon d’accéder à Finca Tilquiza est de traverser un pont suspendu et de là, à pied ou à cheval. La distance à parcourir est de 150 mètres.",
-        "Si vous préférez, vous pouvez arriver à l’hébergement en autobus qui part tous les jours à 7 heures du terminal San Salvador de Jujuy en direction de Ocloyas. Descendre à Tilquiza."
+        "Pour atteindre le site de Tilquiza, dans le dÃ©partement Dr. Manuel Belgrano, San Salvador de Jujuy, province de Jujuy, RA; Vous devez parcourir 17 km sur la route provinciale no 35. Il sâ€™agit dâ€™un sentier entre des collines, prÃ©sente des virages qui traversent de petites riviÃ¨res et ruisseaux; pour cette raison, il est recommandÃ© de voyager de jour. Le personnel de Finca Tilquiza contactera le touriste pour lâ€™accompagner dans son voyage. La route est en gravier et en bon Ã©tat. Vous pouvez accÃ©der Ã  la ferme dans un camion toute lâ€™annÃ©e et dans des voitures plus petites de mars Ã  dÃ©cembre.",
+        "Une autre faÃ§on dâ€™accÃ©der Ã  Finca Tilquiza est de traverser un pont suspendu et de lÃ , Ã  pied ou Ã  cheval. La distance Ã  parcourir est de 150 mÃ¨tres.",
+        "Si vous prÃ©fÃ©rez, vous pouvez arriver Ã  lâ€™hÃ©bergement en autobus qui part tous les jours Ã  7 heures du terminal San Salvador de Jujuy en direction de Ocloyas. Descendre Ã  Tilquiza."
       ],
       "geographicalCoordinates": "0.222881, -79.892277",
       "emailAddress": "finca@tilquiza.com.eq",
