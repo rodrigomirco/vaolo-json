@@ -108,8 +108,8 @@
   "users": [
     {
       "email": "test@vaolo.com",
-      "passwordSalt":  "bidon",
-      "hashedPassword":  "bidon"
+      "passwordSalt": "ZLfPqZHAEN1Cyl2hYoow",
+      "hashedPassword": "guOQVI8Gk3RiSKJY46NBMnvNprbRowEjQ4HP6i8M33x56j/hNjijG1r+bgZcAciy0xhKSfgguQC+3CitewMkSw=="
     }    
   ]
 }
