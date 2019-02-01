@@ -3,15 +3,14 @@
     {
       "id": 1,
       "name": "Casa de las Flores",
+      "photos": [
+        ""
+      ],
       "description": "Maison sur les montagnes Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "type": "Cases traditionnelles",
       "maxNbOfPeopleByRoom": 4,
       "transport": "Bus, taxi, voiture",
-      "languages": [
-        "français",
-        "anglais",
-        "espagnol"
-      ],
+      "languages": "français, anglais, espagnol",
       "totalNbOfUnities": 7,
       "closestCity": "Quito",
       "equipments": [
@@ -21,23 +20,8 @@
         "Panneaux solaires"
       ],
       "disponibilities": "Disponible toute l’année. Saison des pluies : mai à octobre. Saison sèche : novembre à avril.",
-      "activities": [
-        "Rafting",
-        "tours en canoé",
-        "excursions dans la jungle",
-        "atelier de fabrication et dégustation de chocolat",
-        "plantes médicinales",
-        "atelier d’artisanat",
-        "promenades en plein-air",
-        "excursions nocturnes",
-        "visite des cascades",
-        "animation musicale",
-        "tubing",
-        "visite des cavernes",
-        "atelier de purification",
-        "massage"
-      ],
-      "structure": "Privée",
+      "activities": "Rafting, tours en canoé, excursions dans la jungle, atelier de fabrication et dégustation de chocolat, plantes médicinales, atelier d’artisanat, promenades en plein-air, excursions nocturnes, visite des cascades, animation musicale, tubing, visite des cavernes, atelier de purification, massage.",
+	  "structure": "Privée",
       "directions": [
         "De Quito à Tena, compter environ 4 heures de bus. De Tena a Misahualli, compter environ 40 minutes de bus. De Misahualli à Sinchi Warmi, compter environ 5 minutes de taxi. Possibilité de prendre un taxi depuis Tena jusqu’à Sinchi Warmi : environ 25 minutes.",
         "Depuis le square à Puerto Misahualli, prendre la Via St. Victor direction Est. Traverser le pont à Puerto Misahualli. Prendre à droite au premier Y juste après le pont. Continuer sur cette route pendant 2 km. Sinchi Warmi Amazon Lodge sera à votre gauche juste après le restaurant El Jardin et la communauté Shiripuno."
@@ -45,6 +29,7 @@
       "geographicalCoordinates": "0.022881, -78.892277",
       "emailAddress": "test@email.com",
       "onTheFrontPage": true,
+      "hostPhoto":  "",
       "keywords": [
         "quito",
         "casa",
@@ -52,22 +37,22 @@
         "plage",
         "équateur"
       ],
-      "countryId": 1,
-      "regionId": 3,
-      "labelId": 5,
-      "ressourceId": 43
+      "countryId": 51,
+      "regionId": 31,
+      "labelId": 61,
+      "ressourceId": 91
     },
     {
       "id": 2,
       "name": "Finca Tilquiza",
+      "photos": [
+        ""
+      ],
       "description": "Maison dans la forêt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "type": "Cases traditionnelles",
       "maxNbOfPeopleByRoom": 7,
       "transport": "Voiture, taxi, moto, bicyclette, à pied",
-      "languages": [
-        "anglais",
-        "espagnol"
-      ],
+      "languages": "anglais, espagnol",
       "totalNbOfUnities": 10,
       "closestCity": "Quito",
       "equipments": [
@@ -79,12 +64,7 @@
         "Moustiquaires"
       ],
       "disponibilities": "Disponible toute l’année",
-      "activities": [
-        "Randonnée pédestre en sentiers balisés pour la promenade en forêt et dans les montagnes",
-        "visite du circuit touristique Quebrada de Humahuaca",
-        "observation de faune et de flore",
-        "détente"
-      ],
+      "activities": "Randonnée pédestre en sentiers balisés pour la promenade en forêt et dans les montagnes, visite du circuit touristique Quebrada de Humahuaca, observation de faune et de flore, détente.",
       "structure": "Propriété privée",
       "directions": [
         "Pour atteindre le site de Tilquiza, dans le département Dr. Manuel Belgrano, San Salvador de Jujuy, province de Jujuy, RA; Vous devez parcourir 17 km sur la route provinciale no 35. Il s’agit d’un sentier entre des collines, présente des virages qui traversent de petites rivières et ruisseaux; pour cette raison, il est recommandé de voyager de jour. Le personnel de Finca Tilquiza contactera le touriste pour l’accompagner dans son voyage. La route est en gravier et en bon état. Vous pouvez accéder à la ferme dans un camion toute l’année et dans des voitures plus petites de mars à décembre.",
@@ -94,29 +74,71 @@
       "geographicalCoordinates": "0.222881, -79.892277",
       "emailAddress": "finca@tilquiza.com.eq",
       "onTheFrontPage": false,
+      "hostPhoto":  "",
       "keywords": [
         "quito",
         "finca",
         "tilquiza"
       ],
-      "countryId": 1,
-      "regionId": 3,
-      "labelId": 6,
-      "ressourceId": 9
+      "countryId": 51,
+      "regionId": 31,
+      "labelId": 61,
+      "ressourceId": 91
     }
   ],
   "users": [
     {
-      "id": 1,
+      "id": 101,
       "email": "test@vaolo.com",
       "passwordSalt": "ZLfPqZHAEN1Cyl2hYoow",
       "hashedPassword": "guOQVI8Gk3RiSKJY46NBMnvNprbRowEjQ4HP6i8M33x56j/hNjijG1r+bgZcAciy0xhKSfgguQC+3CitewMkSw=="
     },
     {
-      "id": 8,
+      "id": 108,
       "email": "testPostmanModif@vaolo.com",
       "passwordSalt": "ZLfPqZHAEN1Cyl2hYoow",
       "hashedPassword": "guOQVI8Gk3RiSKJY46NBMnvNprbRowEjQ4HP6i8M33x56j/hNjijG1r+bgZcAciy0xhKSfgguQC+3CitewMkSw=="
     }
+  ],
+  "countries": [
+    {
+      "id": 51,
+      "name": "Équateur",
+      "description": "Pays en Amérique du Sud",
+      "climate": "Tropical",
+      "officialLanguages": "kichwa, espagnol, shuar",
+      "currency": "Dollar américain",
+      "internationalAirports": "Galapagos, Quito, Santa Rosa, Manta, Guayaquil, Esmeraldas, Cuenca, Latacunga, Manta, Salinas, Tulcan",
+      "curiosities": "Les îles Galapagos s'y trouvent",
+      "tips": "Faire attention aux hautes altitudes",
+      "photos": [
+		""
+	  ]
+    }
+  ],
+  "labels": [
+	{
+	   "id": 61,
+	   "name": "Label de l'équateur",
+	   "description": "Je ne sais pas c'est quoi un label",
+	   "logo": ""
+	}
+  ],
+  "regions": [
+	{
+	  "id": 31,
+	  "name": "Pichincha",
+	  "description": "La province de Pichincha est l'une des 24 provinces qui constituent la République de l'Équateur. Sa capitale, Quito, est aussi celle du pays."
+	}
+  ],
+  "ressources": [
+	{
+	  "id": 91,
+	  "contact": "pichincha@ecuador.com.ec",
+	  "telephoneNumber": "+593 9 9999999",
+	  "timeZone": "UTC -5",
+	  "firstNightDiscountAvailable": false,
+	  "firstNightAmount": 0
+	}
   ]
 }
