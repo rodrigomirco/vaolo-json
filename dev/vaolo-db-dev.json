@@ -1,18 +1,18 @@
 {
   "accomodations": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Casa de las Flores",
       "description": "Maison sur les montagnes Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "type": "Cases traditionnelles",
-      "maxNbOfPeopleByRoom": "4",
+      "maxNbOfPeopleByRoom": 4,
       "transport": "Bus, taxi, voiture",
       "languages": [
         "français",
         "anglais",
         "espagnol"
       ],
-      "totalNbOfUnities": "7",
+      "totalNbOfUnities": 7,
       "closestCity": "Quito",
       "equipments": [
         "Salles d'eau partagées",
@@ -52,23 +52,23 @@
         "plage",
         "équateur"
       ],
-      "countryId": "1",
-      "regionId": "3",
-      "labelId": "5",
-      "ressourceId": "43"
+      "countryId": 1,
+      "regionId": 3,
+      "labelId": 5,
+      "ressourceId": 43
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Finca Tilquiza",
       "description": "Maison dans la forêt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "type": "Cases traditionnelles",
-      "maxNbOfPeopleByRoom": "7",
+      "maxNbOfPeopleByRoom": 7,
       "transport": "Voiture, taxi, moto, bicyclette, à pied",
       "languages": [
         "anglais",
         "espagnol"
       ],
-      "totalNbOfUnities": "10",
+      "totalNbOfUnities": 10,
       "closestCity": "Quito",
       "equipments": [
         "Salles d'eau partagées",
@@ -99,10 +99,10 @@
         "finca",
         "tilquiza"
       ],
-      "countryId": "1",
-      "regionId": "3",
-      "labelId": "6",
-      "ressourceId": "9"
+      "countryId": 1,
+      "regionId": 3,
+      "labelId": 6,
+      "ressourceId": 9
     }
   ],
   "users": [
