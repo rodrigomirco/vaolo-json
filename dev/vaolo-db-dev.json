@@ -31,8 +31,7 @@
 	  "nights": 8,
       "countryId": 51,
       "regionId": 31,
-      "labelId": 61,
-      "ressourceId": 91
+      "hostId": 91
     },
     {
       "id": 2,
