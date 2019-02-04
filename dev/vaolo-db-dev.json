@@ -3,9 +3,6 @@
     {
       "id": 1,
       "name": "Casa de las Flores",
-      "photos": [
-        ""
-      ],
       "description": "Maison sur les montagnes Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "lodgingType": "Cases traditionnelles",
       "capacity": 4,
@@ -29,9 +26,6 @@
     {
       "id": 2,
       "name": "Finca Tilquiza",
-      "photos": [
-        ""
-      ],
       "description": "Maison dans la forêt Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam at sem ullamcorper, cursus enim eget, cursus tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam in sapien interdum, ultrices nisi in, egestas nisl. Duis in auctor eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut placerat magna ut diam bibendum, at mattis mi tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum eget felis feugiat libero ultricies semper. Proin vel dolor dui. Duis dignissim lacinia lorem, eget pretium lacus scelerisque non. Fusce a hendrerit nibh. Vivamus sed vestibulum urna. Duis elementum ipsum ac convallis vehicula. Phasellus euismod ullamcorper euismod. Proin consequat lectus accumsan arcu fermentum molestie. Mauris id velit et ante dictum porttitor eget non arcu. Vestibulum sit amet purus elementum, tempus lorem eu, scelerisque odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas nec tincidunt purus. Aliquam fringilla enim non ex mattis mollis. Aenean eget consequat nunc. Integer justo dolor, facilisis at arcu et, lobortis porttitor lorem. Vivamus lobortis ultricies odio et fringilla. Aliquam ullamcorper nisl nec orci congue, a pellentesque dui molestie. Duis viverra vel dui quis mollis. Donec scelerisque ante ante.",
       "lodgingType": "Cases traditionnelles",
       "capacity": 7,
@@ -63,10 +57,7 @@
       "currency": "Dollar américain",
       "airport": "Galapagos, Quito, Santa Rosa, Manta, Guayaquil, Esmeraldas, Cuenca, Latacunga, Manta, Salinas, Tulcan",
       "didYouKnow": "Les îles Galapagos s'y trouvent",
-      "tips": "Faire attention aux hautes altitudes",
-      "photos": [
-		""
-	  ]
+      "tips": "Faire attention aux hautes altitudes"
     }
   ],
   "regions": [
