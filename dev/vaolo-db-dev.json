@@ -19,6 +19,8 @@
 	  "timezone": "UTC -5",
 	  "price": 59,
 	  "nights": 8,
+	  "createdAt": "2018/11/24 18:57:59",
+	  "updatedAt": "2019/02/05 09:21:01",
       "countryId": 51,
       "regionId": 31,
       "hostId": 91
@@ -42,6 +44,8 @@
 	  "timezone": "UTC -5",
 	  "price": 100,
 	  "nights": 5,
+	  "createdAt": "2010/11/24 18:57:59",
+	  "updatedAt": "2017/02/05 09:21:01",
       "countryId": 51,
       "regionId": 31,
       "hostId": 91
