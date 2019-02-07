@@ -86,14 +86,15 @@
     {
       "id": 101,
       "email": "test@vaolo.com",
-      "passwordSalt": "ZLfPqZHAEN1Cyl2hYoow",
       "password": "Test123!",
+	  "isSubscribedToNews": true,
 	  "updatedAt": "2015-12-12T00:00:00"
     },
     {
       "id": 108,
       "email": "testPostmanModif@vaolo.com",
       "password": "Test1234!",
+	  "isSubscribedToNews": false,
 	  "updatedAt": "2015-12-12T00:00:00"
     }
   ]
